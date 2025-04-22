@@ -5,7 +5,7 @@ This web-based Task Management System is designed to streamline project and empl
 - **Secure Authentication:** Users can securely log in with email verification.
 - **Role-Based Access Control (RBAC):** Controlled access based on user roles.
 - **Project and Task Management:** Create, update, delete projects and tasks.
-- **Employee Assignments:**Assign tasks to employees and track assignments.
+- **Employee Assignments:** Assign tasks to employees and track assignments.
 - **Dynamic Dashboard:** Provides an overview of project and task statuses.
 - **Custom Error Handling:** Enhances user experience with informative error messages.
 # Technologies Used
