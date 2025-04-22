@@ -9,7 +9,7 @@ This web-based Task Management System is designed to streamline project and empl
 - **Dynamic Dashboard:** Provides an overview of project and task statuses.
 - **Custom Error Handling:**Enhances user experience with informative error messages.
 # Technologies Used
-- **Backend:**Laravel PHP Framework
+- **Backend:** Laravel PHP Framework
 - **Frontend:** HTML, CSS, JavaScript
 - **Database:** MySQL
 # Installation
