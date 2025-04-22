@@ -7,7 +7,7 @@ This web-based Task Management System is designed to streamline project and empl
 - **Project and Task Management:** Create, update, delete projects and tasks.
 - **Employee Assignments:**Assign tasks to employees and track assignments.
 - **Dynamic Dashboard:** Provides an overview of project and task statuses.
-- **Custom Error Handling:**Enhances user experience with informative error messages.
+- **Custom Error Handling:** Enhances user experience with informative error messages.
 # Technologies Used
 - **Backend:** Laravel PHP Framework
 - **Frontend:** HTML, CSS, JavaScript
