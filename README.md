@@ -10,7 +10,7 @@ This web-based Task Management System is designed to streamline project and empl
 - **Custom Error Handling:** Enhances user experience with informative error messages.
 # Technologies Used
 - **Backend:** Laravel PHP Framework
-- **Frontend:** HTML, CSS, JavaScript
+- **Frontend:** HTML, CSS, JavaScript,Blade, Bootstrap
 - **Database:** MySQL
 # Installation
 1. Clone the repository
